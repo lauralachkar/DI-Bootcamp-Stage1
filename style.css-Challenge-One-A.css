@@ -1,0 +1,16 @@
+
+.panel {
+    background-color: deepskyblue;
+    height: 460px;
+    width: 800px;
+    padding-top: 5px;
+}
+
+#list{
+   text-align: center;
+    list-style-type: none;
+}
+
+li:first-letter{
+    font-weight: bold;
+}
