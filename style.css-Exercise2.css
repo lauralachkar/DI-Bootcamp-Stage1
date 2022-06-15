@@ -1,0 +1,20 @@
+.odd{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second-paragraph{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#third-paragraph{
+    background-color: lightpink;
+    font-size: 24px;
+}
+
+#fourth-paragraph{
+    font-size: 24px;
+    font-weight: bold;
+    background-color:springgreen;
+}
