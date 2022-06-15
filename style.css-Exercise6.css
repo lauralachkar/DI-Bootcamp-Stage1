@@ -1,0 +1,34 @@
+.main-container{
+    color: red;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.smaller-container{
+    color: red;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#confirm-button{
+    font-weight: bold;
+    font-size: 22px;
+    color: white;
+    background-color: green;
+}
+
+#cancel-button{
+    font-size: 22px;
+}
+
+.medium-container{
+    color: green;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.footer-container{
+    color: red;
+    font-weight: bold;
+    font-size:20px ;
+}
