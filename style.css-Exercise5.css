@@ -1,0 +1,12 @@
+.container,text container{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.sentence{
+    font-weight: bold;
+    font-size: 24px;
+}
